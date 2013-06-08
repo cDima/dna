@@ -1,6 +1,6 @@
 # Sam's DNA
 
-This is my DNA from [23andMe](http://23andme.com). If I get destroyed, you can rebuild me.
+This is my DNA from [23andMe](http://refer.23andme.com/a/clk/4VL1gj). If I get destroyed, you can rebuild me.
 
 The data is located in [genome.txt](genome.txt). The fields are TAB-separated. Each line corresponds to a single SNP.  For each SNP, we provide its identifier (an rsid or an internal id), its location on the reference human genome, and the genotype call oriented with respect to the plus strand on the human reference sequence.
 
