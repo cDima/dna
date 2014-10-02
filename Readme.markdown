@@ -1,4 +1,4 @@
-# Sam's DNA
+# Dmitry's DNA
 
 This is my DNA from [23andMe](http://refer.23andme.com/a/clk/4VL1gj). If I get destroyed, you can rebuild me.
 
@@ -8,4 +8,4 @@ This uses reference [human assembly build 37 (also known as Annotation Release 1
 
 ## Viewing
 
-The genome file is giant. The easiest way to view it is to [download this repository](https://github.com/soffes/dna/archive/master.zip) and open it in your favorite text editor.
+The genome file is giant. The easiest way to view it is to [download this repository](https://github.com/cdima/dna/archive/master.zip) and open it in your favorite text editor.
